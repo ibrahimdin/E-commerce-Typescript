@@ -1,4 +1,4 @@
-# TypeScript e-commerce store
+# TypeScript e-commerce store!
 
 ## Demo of this app:
 
